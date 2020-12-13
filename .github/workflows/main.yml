@@ -8,6 +8,6 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'NeoNoobs Hangout Textures.zip'
+        filename: 'Hangout_Textures.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
-        path: './NeoNoobs Hangout Textures'
+        path: './Hangout_Textures'
