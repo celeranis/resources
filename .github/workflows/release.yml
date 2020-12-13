@@ -16,3 +16,5 @@ jobs:
       with:
         artifacts: "release.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
+        tag: NNH
+        name: NeoNoobs Hangout Textures
