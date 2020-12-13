@@ -1,5 +1,18 @@
-- name: Upload Release
-    uses: ncipollo/release-action@main
-    with:
-        artifacts: "release.zip"
-        token: ${{ secrets.GITHUB_TOKEN }}
+name: Create Archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        filename: 'release.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
+        path: './Hangout_Textures'
+    - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "release.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
