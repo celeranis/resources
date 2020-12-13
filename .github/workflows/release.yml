@@ -18,3 +18,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: NNH
         name: NeoNoobs Hangout Textures
+        allowUpdates: true
