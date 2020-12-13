@@ -1,5 +1,5 @@
 - name: Upload Release
-    uses: ncipollo/release-action@v1
+    uses: ncipollo/release-action@main
     with:
         artifacts: "release.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
