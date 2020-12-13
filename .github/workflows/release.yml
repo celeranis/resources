@@ -6,13 +6,13 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Archive Release
-      uses: thedoctor0/zip-release@master
-      with:
-        filename: 'release.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
-        path: './Hangout_Textures'
+        uses: thedoctor0/zip-release@master
+        with:
+          filename: 'release.zip'
+          exclusions: '*.git* /*node_modules/* .editorconfig'
+          path: './Hangout_Textures'
     - name: Upload Release
-        uses: ncipollo/release-action@v1
+        uses: ncipollo/release-action@main
         with:
           artifacts: "release.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
