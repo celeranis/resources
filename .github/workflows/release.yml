@@ -10,7 +10,8 @@ jobs:
       with:
         filename: 'Hangout_Textures.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
-        path: './Hangout_Textures/*'
+        path: './Hangout_Textures'
+        directory: './Hangout_Textures'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
