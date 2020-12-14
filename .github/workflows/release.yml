@@ -8,13 +8,13 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'release.zip'
+        filename: 'Hangout_Textures.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
         path: './Hangout_Textures'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "release.zip"
+        artifacts: "Hangout_Textures.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
         tag: NNH
         name: NeoNoobs Hangout Textures
