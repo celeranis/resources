@@ -1,0 +1,127 @@
+{
+	"neonoobs.bounty.claim": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/bounty/claim",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.bounty.music": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/bounty/music",
+				"weight": 1,
+				"stream": true
+			}
+		]
+	},
+	"neonoobs.item.ball.throw": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/ball/throw",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.item.egg.splat": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/egg/splat",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.item.egg.crack": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/egg/crack",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.item.rpg.reload": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/rpg/reload",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.item.rpg.shoot": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/rpg/shoot",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.tetro.music": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/tetro/music",
+				"weight": 1,
+				"stream": true
+			}
+		]
+	},
+	"neonoobs.tetro.piece_land": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/tetro/piece_land",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.item.warpball.teleport_to": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/warpball/teleport_to",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.item.warpball.teleport_from": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/warpball/teleport_from",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	},
+	"neonoobs.item.warpball.teleport": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/warpball/teleport_from",
+				"weight": 1,
+				"stream": false
+			},
+			{
+				"name": "neonoobs/item/warpball/teleport_to",
+				"weight": 1,
+				"stream": false
+			}
+		]
+	}
+}

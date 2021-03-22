@@ -1,0 +1,146 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"neonoobs.bounty.claim": {
+			"max_distance": 64.0,
+			"category": "ui",
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/bounty/claim",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.bounty.music": {
+			"max_distance": 10000.0,
+			"category": "ui",
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/bounty/music",
+					"stream": true,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.ball.throw": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/ball/throw",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.egg.crack": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/egg/crack",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.egg.splat": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/egg/splat",
+					"stream": false,
+					"volume": 1,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.rpg.reload": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/rpg/reload",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.rpg.shoot": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/rpg/shoot",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.warpball.teleport_from": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/warpball/teleport_from",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.warpball.teleport_to": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/warpball/teleport_to",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.item.warpball.teleport_general": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/item/warpball/teleport_to",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				},
+				{
+					"name": "sounds/neonoobs/item/warpball/teleport_from",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		},
+		"neonoobs.tetro.music": {
+			"max_distance": 64.0,
+			"category": "ui",
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/tetro/music",
+					"stream": true,
+					"volume": 0.5,
+					"load_on_low_memory": false
+				}
+			]
+		},
+		"neonoobs.tetro.piece_land": {
+			"max_distance": 64.0,
+			"sounds": [
+				{
+					"name": "sounds/neonoobs/tetro/piece_land",
+					"stream": false,
+					"volume": 0.5,
+					"load_on_low_memory": true
+				}
+			]
+		}
+	}
+}
