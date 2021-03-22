@@ -141,6 +141,59 @@
 					"load_on_low_memory": true
 				}
 			]
+		},
+		"neonoobs.player.death": {
+			"max_distance": 64,
+			"sounds": [
+				"sounds/neonoobs/player/death"
+			]
+		},
+		"neonoobs.player.poof": {
+			"max_distance": 64,
+			"sounds": [
+				"sounds/neonoobs/player/poof"
+			]
+		},
+		"neonoobs.notif.notification": {
+			"max_distance": 64,
+			"category": "ui",
+			"sounds": [
+				"sounds/neonoobs/notif/notification"
+			]
+		},
+		"neonoobs.notif.alert": {
+			"max_distance": 64,
+			"category": "ui",
+			"sounds": [
+				"sounds/neonoobs/notif/alert"
+			]
+		},
+		"neonoobs.notif.message": {
+			"max_distance": 64,
+			"category": "ui",
+			"sounds": [
+				"sounds/neonoobs/notif/message"
+			]
+		},
+		"neonoobs.notif.special": {
+			"max_distance": 64,
+			"category": "ui",
+			"sounds": [
+				"sounds/neonoobs/notif/special"
+			]
+		},
+		"neonoobs.notif.warning": {
+			"max_distance": 64,
+			"category": "ui",
+			"sounds": [
+				"sounds/neonoobs/notif/warning"
+			]
+		},
+		"neonoobs.item.rpg.ice_explosion": {
+			"max_distance": 64,
+			"sounds": [
+				"sounds/neonoobs/item/rpg/ice_explosion"
+			]
 		}
 	}
 }

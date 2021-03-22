@@ -123,5 +123,77 @@
 				"stream": false
 			}
 		]
+	},
+	"neonoobs.item.rpg.ice_explosion": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/item/rpg/ice_explosion",
+				"stream": false
+			}
+		]	
+	},
+	"neonoobs.notif.alert": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/notif/alert",
+				"stream": false
+			}
+		]	
+	},
+	"neonoobs.notif.special": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/notif/special",
+				"stream": false
+			}
+		]	
+	},
+	"neonoobs.notif.notification": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/notif/notification",
+				"stream": false
+			}
+		]	
+	},
+	"neonoobs.notif.warning": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/notif/warning",
+				"stream": false
+			}
+		]	
+	},
+	"neonoobs.notif.message": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/notif/message",
+				"stream": false
+			}
+		]	
+	},
+	"neonoobs.player.death": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/player/death",
+				"stream": false
+			}
+		]	
+	},
+	"neonoobs.player.poof": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "neonoobs/player/poof",
+				"stream": false
+			}
+		]	
 	}
 }
