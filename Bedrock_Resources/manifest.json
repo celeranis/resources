@@ -4,13 +4,13 @@
 		"description": "The resource pack for TydiumCraft, featuring custom textures, music, sounds, UI and more!",
 		"name": "TydiumCraft Resources",
 		"uuid": "9bcd1f50-909b-4e38-b3ed-db72795c976f",
-		"version": [0, 0, 10],
+		"version": [0, 0, 11],
 		"min_engine_version": [1, 16, 0]
 	},
 	"modules": [{
 		"description": "TydiumCraft Resources",
 		"type": "resources",
 		"uuid": "fbbc8592-e794-424f-9dee-b62e7e3ab8d9",
-		"version": [0, 0, 10]
+		"version": [0, 0, 11]
 	}]
 }
