@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/apple"
+    },
+    "overrides":[
+       {"predicate": {"custom_model_data":1}, "model":"tydiumcraft:item/food/chocolate_bar"},
+       {"predicate": {"custom_model_data":2}, "model":"tydiumcraft:item/food/pickle"},
+       {"predicate": {"custom_model_data":3}, "model":"tydiumcraft:item/food/fried_egg"},
+       {"predicate": {"custom_model_data":4}, "model":"tydiumcraft:item/food/salad"}
+    ]
+  }
