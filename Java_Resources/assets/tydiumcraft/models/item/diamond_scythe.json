@@ -1,0 +1,31 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "tydiumcraft:item/diamond_scythe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 4.5, 7.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 4.5, 7.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 1, 0]
+		},
+		"gui": {
+			"translation": [1.25, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-1, 0, -0.5]
+		}
+	}
+}

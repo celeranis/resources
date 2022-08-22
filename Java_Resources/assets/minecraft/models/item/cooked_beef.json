@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/cooked_beef"
+    },
+    "overrides":[
+       {"predicate": {"custom_model_data":1}, "model":"tydiumcraft:item/food/hamburger"},
+       {"predicate": {"custom_model_data":2}, "model":"tydiumcraft:item/food/pork_sandwich"},
+       {"predicate": {"custom_model_data":3}, "model":"tydiumcraft:item/food/mutton_sandwich"}
+    ]
+  }

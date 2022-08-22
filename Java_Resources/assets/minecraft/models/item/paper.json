@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides":[
+     {"predicate": {"custom_model_data":1}, "model":"tydiumcraft:animals/owl"},
+     {"predicate": {"custom_model_data":2}, "model":"tydiumcraft:animals/owl_flap1"},
+     {"predicate": {"custom_model_data":3}, "model":"tydiumcraft:animals/owl_flap1-2"},
+     {"predicate": {"custom_model_data":4}, "model":"tydiumcraft:animals/owl_flap1-3"},
+     {"predicate": {"custom_model_data":5}, "model":"tydiumcraft:animals/owl_flap2"},
+     {"predicate": {"custom_model_data":6}, "model":"tydiumcraft:empty"},
+     {"predicate": {"custom_model_data":7}, "model":"tydiumcraft:animals/owl_walk1"},
+     {"predicate": {"custom_model_data":8}, "model":"tydiumcraft:animals/owl_walk2"},
+     {"predicate": {"custom_model_data":9}, "model":"tydiumcraft:animals/owl_walk3"}
+  ]
+}

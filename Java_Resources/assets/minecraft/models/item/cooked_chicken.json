@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/cooked_chicken"
+    },
+    "overrides":[
+       {"predicate": {"custom_model_data":1}, "model":"tydiumcraft:item/food/chicken_sandwich"},
+       {"predicate": {"custom_model_data":2}, "model":"tydiumcraft:item/food/chocolate_pickle_sandwich"},
+       {"predicate": {"custom_model_data":3}, "model":"tydiumcraft:item/food/cod_sandwich"},
+       {"predicate": {"custom_model_data":4}, "model":"tydiumcraft:item/food/egg_sandwich"},
+       {"predicate": {"custom_model_data":5}, "model":"tydiumcraft:item/food/rabbit_sandwich"},
+       {"predicate": {"custom_model_data":6}, "model":"tydiumcraft:item/food/salmon_sandwich"}
+    ]
+  }

@@ -1,0 +1,59 @@
+{
+    "providers": [
+        {
+            "ascent": 32,
+            "chars": [
+                "ꡥꡦ",
+                "ꡧꡨ"
+            ],
+            "file": "tydiumcraft:ui/title.png",
+            "height": 74,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                ""
+            ],
+            "file": "tydiumcraft:ui/pixel_nosplit.png",
+            "height": -3,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uCC01"
+            ],
+            "file": "tydiumcraft:ui/pixel_nosplit.png",
+            "height": -158,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uCC02"
+            ],
+            "file": "tydiumcraft:ui/pixel_split.png",
+            "height": 45,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -12,
+            "chars": [
+                "ꢘ"
+            ],
+            "file": "tydiumcraft:ui/need_help_menu.png",
+            "height": 256,
+            "type": "bitmap"
+        },
+        {
+            "ascent":10,
+            "chars": [
+                "\uCC03"
+            ],
+            "file": "tydiumcraft:ui/icons/owl_face.png",
+            "height": 14,
+            "type": "bitmap"
+        }
+    ]
+}
