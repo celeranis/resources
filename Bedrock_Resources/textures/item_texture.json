@@ -1,0 +1,156 @@
+{
+  "resource_pack_name": "TydiumCraft-Resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "diamond_scythe": {
+      "textures": [
+        "textures/items/diamond_scythe"
+      ]
+    },
+    "emerald_nugget": {
+      "textures": [
+        "textures/items/emerald_nugget.png"
+      ]
+    },
+    "chocolate_bar": {
+      "textures": [
+        "textures/items/food/chocolate_bar.png"
+      ]
+    },
+    "chocolate_pickle": {
+      "textures": [
+        "textures/items/food/chocolate_pickle.png"
+      ]
+    },
+    "melted_chocolate": {
+      "textures": [
+        "textures/items/food/melted_chocolate.png"
+      ]
+    },
+    "pickle": {
+      "textures": [
+        "textures/items/food/pickle.png"
+      ]
+    },
+    "chicken_sandwich": {
+      "textures": [
+        "textures/items/food/chicken_sandwich.png"
+      ]
+    },
+    "chocolate_pickle_sandwich": {
+      "textures": [
+        "textures/items/food/chocolate_pickle_sandwich.png"
+      ]
+    },
+    "cod_sandwich": {
+      "textures": [
+        "textures/items/food/cod_sandwich.png"
+      ]
+    },
+    "egg_sandwich": {
+      "textures": [
+        "textures/items/food/egg_sandwich.png"
+      ]
+    },
+    "fried_egg": {
+      "textures": [
+        "textures/items/food/fried_egg.png"
+      ]
+    },
+    "hamburger": {
+      "textures": [
+        "textures/items/food/hamburger"
+      ]
+    },
+    "pork_sandwich": {
+      "textures": [
+        "textures/items/food/pork_sandwich.png"
+      ]
+    },
+    "rabbit_sandwich": {
+      "textures": [
+        "textures/items/food/rabbit_sandwich.png"
+      ]
+    },
+    "salmon_sandwich": {
+      "textures": [
+        "textures/items/food/salmon_sandwich.png"
+      ]
+    },
+    "mutton_sandwich": {
+      "textures": [
+        "textures/items/food/mutton_sandwich.png"
+      ]
+    },
+    "salad": {
+      "textures": [
+        "textures/items/food/salad.png"
+      ]
+    },
+    "apple_pie": {
+      "textures": [
+        "textures/items/food/apple_pie.png"
+      ]
+    },
+    "creme_cookie": {
+      "textures": [
+        "textures/items/food/creme_cookie.png"
+      ]
+    },
+    "marshmallow": {
+      "textures": [
+        "textures/items/food/marshmallow.png"
+      ]
+    },
+    "music_disc_megalovania": {
+      "textures": [
+        "textures/items/disc/music_disc_megalovania.png"
+      ]
+    },
+    "music_disc_smashbros": {
+      "textures": [
+        "textures/items/disc/music_disc_smashbros.png"
+      ]
+    },
+    "owl": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    },
+    "owl_flap1": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    },
+    "owl_flap1-2": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    },
+    "owl_flap1-3": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    },
+    "owl_flap2": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    },
+    "owl_walk1": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    },
+    "owl_walk2": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    },
+    "owl_walk3": {
+      "textures": [
+        "textures/animals/owl_face.png"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "chocolate_bar",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:icon": "chocolate_bar",
+			"minecraft:use_animation": "eat"
+		}
+	}
+}
