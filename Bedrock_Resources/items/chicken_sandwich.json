@@ -1,0 +1,13 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "chicken_sandwich",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:icon": "chicken_sandwich",
+			"minecraft:use_animation": "eat"
+		}
+	}
+}

@@ -1,199 +1,60 @@
 {
-	"format_version": "1.14.0",
-	"sound_definitions": {
-		"neonoobs.bounty.claim": {
-			"max_distance": 64.0,
-			"category": "ui",
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/bounty/claim",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.bounty.music": {
-			"max_distance": 10000.0,
-			"category": "ui",
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/bounty/music",
-					"stream": true,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.ball.throw": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/ball/throw",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.egg.crack": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/egg/crack",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.egg.splat": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/egg/splat",
-					"stream": false,
-					"volume": 1,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.rpg.reload": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/rpg/reload",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.rpg.shoot": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/rpg/shoot",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.warpball.teleport_from": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/warpball/teleport_from",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.warpball.teleport_to": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/warpball/teleport_to",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.item.warpball.teleport_general": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/item/warpball/teleport_to",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				},
-				{
-					"name": "sounds/neonoobs/item/warpball/teleport_from",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.tetro.music": {
-			"max_distance": 64.0,
-			"category": "ui",
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/tetro/music",
-					"stream": true,
-					"volume": 0.5,
-					"load_on_low_memory": false
-				}
-			]
-		},
-		"neonoobs.tetro.piece_land": {
-			"max_distance": 64.0,
-			"sounds": [
-				{
-					"name": "sounds/neonoobs/tetro/piece_land",
-					"stream": false,
-					"volume": 0.5,
-					"load_on_low_memory": true
-				}
-			]
-		},
-		"neonoobs.player.death": {
-			"max_distance": 64,
-			"sounds": [
-				"sounds/neonoobs/player/death"
-			]
-		},
-		"neonoobs.player.poof": {
-			"max_distance": 64,
-			"sounds": [
-				"sounds/neonoobs/player/poof"
-			]
-		},
-		"neonoobs.notif.notification": {
-			"max_distance": 64,
-			"category": "ui",
-			"sounds": [
-				"sounds/neonoobs/notif/notification"
-			]
-		},
-		"neonoobs.notif.alert": {
-			"max_distance": 64,
-			"category": "ui",
-			"sounds": [
-				"sounds/neonoobs/notif/alert"
-			]
-		},
-		"neonoobs.notif.message": {
-			"max_distance": 64,
-			"category": "ui",
-			"sounds": [
-				"sounds/neonoobs/notif/message"
-			]
-		},
-		"neonoobs.notif.special": {
-			"max_distance": 64,
-			"category": "ui",
-			"sounds": [
-				"sounds/neonoobs/notif/special"
-			]
-		},
-		"neonoobs.notif.warning": {
-			"max_distance": 64,
-			"category": "ui",
-			"sounds": [
-				"sounds/neonoobs/notif/warning"
-			]
-		},
-		"neonoobs.item.rpg.ice_explosion": {
-			"max_distance": 64,
-			"sounds": [
-				"sounds/neonoobs/item/rpg/ice_explosion"
-			]
-		}
-	}
+  "format_version" : "1.14.0",
+  "sound_definitions" : {
+    "record.chinese_anthem": {
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/music/game/records/chinese_anthem",
+          "stream": true,
+          "volume": 0.5,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "record.m64castle": {
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/music/game/records/m64castle",
+          "stream": true,
+          "volume": 0.5,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "record.smashbros": {
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/music/game/records/smashbros",
+          "stream": true,
+          "volume": 0.5,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "record.megalovania": {
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/music/game/records/megalovania",
+          "stream": true,
+          "volume": 0.5,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "tydiumcraft:animal.owl.hoot": {
+      "max_distance": 64.0,
+      "sounds": [
+        {
+          "name": "sounds/animals/owl/hoot",
+          "stream": true,
+          "volume": 0.5,
+          "load_on_low_memory": true
+        }
+      ]
+    }
+  }
 }

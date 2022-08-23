@@ -1,0 +1,13 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "fried_egg",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:icon": "fried_egg",
+			"minecraft:use_animation": "eat"
+		}
+	}
+}
