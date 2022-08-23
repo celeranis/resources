@@ -1,0 +1,11 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "geyser_custom:hamburger",
+			"category": "Equipment"
+        },
+        "minecraft:icon": "hamburger",
+        "minecraft:use_animation": "eat"
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "egg_sandwich",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:icon": "egg_sandwich",
+			"minecraft:use_animation": "eat"
+		}
+	}
+}

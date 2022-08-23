@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "geyser_custom:owl_flap2",
+            "materials": {
+                "default": "entity_alphatest_one_sided",
+                "enchanted": "entity_alphatest_one_sided"
+            },
+			"textures": {
+				"default": "textures/animals/owl1"
+			},
+			"geometry": {
+				"default": "geometry.owl.flap2"
+			},
+			"scripts": {
+				"animate": [
+					"wield"
+				]
+			},
+			"render_controllers": [
+				"controller.render.item_default"
+			]
+		}
+	}
+}

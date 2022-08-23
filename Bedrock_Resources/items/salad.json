@@ -1,0 +1,13 @@
+{
+	"format_version": 1.1,
+	"minecraft:item": {
+		"description": {
+			"identifier": "salad",
+			"category": "Equipment"
+		},
+		"components": {
+			"minecraft:icon": "salad",
+			"minecraft:use_animation": "eat"
+		}
+	}
+}
