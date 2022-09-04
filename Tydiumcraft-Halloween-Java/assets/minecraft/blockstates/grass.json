@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/grass" ,    			"weight": 1000},
+		{ "model": "block/grass_skull" ,    		"weight": 1},
+		{ "model": "block/grass_skull" , "y": 90 ,    	"weight": 1},
+		{ "model": "block/grass_skull" , "y": 180 ,   	"weight": 1},
+		{ "model": "block/grass_skull" , "y": 270 ,   	"weight": 1},
+
+		{ "model": "block/pumpkins/pumpkin_decor1" ,    		"weight": 5},
+		{ "model": "block/pumpkins/pumpkin_decor2" , "y": 90 ,    	"weight": 5},
+		{ "model": "block/pumpkins/pumpkin_decor1" , "y": 180 ,   	"weight": 5},
+		{ "model": "block/pumpkins/pumpkin_decor2" , "y": 270 ,   	"weight": 5}
+
+	]
+    }
+}
