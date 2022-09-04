@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "minecraft:item/apple"
+      "layer0": "minecraft:item/pumpkin_pie"
     },
     "overrides":[
        {"predicate": {"custom_model_data":1}, "model":"tydiumcraft:item/food/apple_pie"}
