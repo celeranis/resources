@@ -1,0 +1,38 @@
+{
+  "overrides": [
+    {
+      "model": "tydiumcraft:item/tool_sets/panda/hoe",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/tydiumcraft/hoe",
+      "predicate": {
+        "custom_model_data": 32
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/cake/hoe",
+      "predicate": {
+        "custom_model_data": 48
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/cookie/hoe",
+      "predicate": {
+        "custom_model_data": 64
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/midnight/hoe",
+      "predicate": {
+        "custom_model_data": 80
+      }
+    }
+  ],
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  }
+}

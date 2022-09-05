@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "tydiumcraft:item/tool_sets/panda/hoe"
+  }
+}
