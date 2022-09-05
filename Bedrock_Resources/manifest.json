@@ -4,7 +4,7 @@
 		"description": "TydiumCraft resources made by Tydium & Bret06",
 		"name": "TydiumCraft-Resources",
 		"uuid": "9bcd1f50-909b-4e38-b3ed-db72795c976f",
-		"version": [1, 0, 19],
+		"version": [1, 0, 21],
 		"min_engine_version": [1, 16, 0]
 	},
 	"modules": [{

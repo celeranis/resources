@@ -102,6 +102,16 @@
         "textures/items/food/marshmallow.png"
       ]
     },
+    "ramen": {
+      "textures": [
+        "textures/items/food/ramen.png"
+      ]
+    },
+    "noodles": {
+      "textures": [
+        "textures/items/food/noodles.png"
+      ]
+    },
     "music_disc_megalovania": {
       "textures": [
         "textures/items/disc/music_disc_megalovania.png"
