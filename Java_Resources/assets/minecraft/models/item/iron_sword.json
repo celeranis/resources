@@ -29,16 +29,10 @@
       "predicate": {
         "custom_model_data": 80
       }
-    },
-    {
-      "model": "tydiumcraft:item/tool_sets/deepslate/sword",
-      "predicate": {
-        "custom_model_data": 96
-      }
     }
   ],
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/diamond_sword"
+    "layer0": "minecraft:item/iron_sword"
   }
 }

@@ -1,0 +1,38 @@
+{
+  "overrides": [
+    {
+      "model": "tydiumcraft:item/tool_sets/panda/axe",
+      "predicate": {
+        "custom_model_data": 16
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/tydiumcraft/axe",
+      "predicate": {
+        "custom_model_data": 32
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/cake/axe",
+      "predicate": {
+        "custom_model_data": 48
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/cookie/axe",
+      "predicate": {
+        "custom_model_data": 64
+      }
+    },
+    {
+      "model": "tydiumcraft:item/tool_sets/midnight/axe",
+      "predicate": {
+        "custom_model_data": 80
+      }
+    }
+  ],
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe"
+  }
+}
