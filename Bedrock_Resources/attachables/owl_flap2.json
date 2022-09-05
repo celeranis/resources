@@ -5,10 +5,11 @@
 			"identifier": "geyser_custom:owl_flap2",
             "materials": {
                 "default": "entity_alphatest_one_sided",
-                "enchanted": "entity_alphatest_one_sided"
+				"enchanted": "entity_alphatest_glint"
             },
 			"textures": {
-				"default": "textures/animals/owl1"
+				"default": "textures/animals/owl1",
+				"enchanted": "textures/misc/enchanted_item_glint"
 			},
 			"geometry": {
 				"default": "geometry.owl.flap2"
